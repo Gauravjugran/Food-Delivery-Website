@@ -1,2 +1,2 @@
 # Food-Delivery-Website
-Designed a food delivery website using HTML, CSS, and JavaScript. Acquired proficiency in webpage attributes and executed responsive design to ensure cross-device compatibility
+Conceptualized and crafted a visually appealing food delivery website, leveraging HTML, CSS, and JavaScript. Showcased adept skills in webpage design, focusing on user-friendly interfaces, and implemented responsive design principles for seamless navigation across diverse devices. This project not only demonstrates proficiency in front-end technologies but also highlights a commitment to delivering an optimal user experience through responsive and visually engaging web solutions.
